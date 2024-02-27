@@ -37,7 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer: 1
+Answer: 3
 
 ------
 
